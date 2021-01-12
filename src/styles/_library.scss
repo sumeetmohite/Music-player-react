@@ -6,6 +6,9 @@
   height: 100%;
   background: white;
   box-shadow: 2px 2px 50px rgb(202, 202, 202);
+  transform: translateX(-100%);
+  transition: all 0.5s ease;
+  opacity: 0;
   overflow: scroll;
 
   h2 {
@@ -55,4 +58,8 @@
 
 .selected {
   background: rgb(188, 188, 240);
+}
+.active-library {
+  transform: translateX(0%);
+  opacity: 1;
 }
