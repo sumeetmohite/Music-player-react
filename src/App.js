@@ -12,7 +12,7 @@ function App() {
   const [currentSong, setCurrentSong] = useState(songs[0]);
   const [isPlaying, setIsPlaying] = useState(false);
   //State
-    const [songInfo, setSongInfo] = useState({
+  const [songInfo, setSongInfo] = useState({
         currentTime: 0,
         duration: 0,
     });
@@ -37,6 +37,7 @@ function App() {
         songs={songs} 
         setCurrentSong={setCurrentSong}
         isPlaying={isPlaying}
+        setSongs={setSongs}
       />
       <audio onTimeUpdate={timeUpdateHandler} 
             onLoadedMetadata={timeUpdateHandler} 
