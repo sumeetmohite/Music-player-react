@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Wavz/static/css/main.083c9333.chunk.css",
+    "main.js": "/Wavz/static/js/main.369c0b22.chunk.js",
+    "main.js.map": "/Wavz/static/js/main.369c0b22.chunk.js.map",
+    "runtime-main.js": "/Wavz/static/js/runtime-main.5f4f6632.js",
+    "runtime-main.js.map": "/Wavz/static/js/runtime-main.5f4f6632.js.map",
+    "static/js/2.6732cb4c.chunk.js": "/Wavz/static/js/2.6732cb4c.chunk.js",
+    "static/js/2.6732cb4c.chunk.js.map": "/Wavz/static/js/2.6732cb4c.chunk.js.map",
+    "static/js/3.730dd951.chunk.js": "/Wavz/static/js/3.730dd951.chunk.js",
+    "static/js/3.730dd951.chunk.js.map": "/Wavz/static/js/3.730dd951.chunk.js.map",
+    "index.html": "/Wavz/index.html",
+    "static/css/main.083c9333.chunk.css.map": "/Wavz/static/css/main.083c9333.chunk.css.map",
+    "static/js/2.6732cb4c.chunk.js.LICENSE.txt": "/Wavz/static/js/2.6732cb4c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f4f6632.js",
+    "static/js/2.6732cb4c.chunk.js",
+    "static/css/main.083c9333.chunk.css",
+    "static/js/main.369c0b22.chunk.js"
+  ]
+}
